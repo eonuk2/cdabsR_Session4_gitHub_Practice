@@ -1,0 +1,35 @@
+#Title
+
+
+**bold**
+
+_italics_
+
+##Bulleted list
+
+* one time
+* item 2
+* item 3
+  *sub-item 1
+-list item hyphen!
+  
+'code'
+
+1. number 1
+1. number 2
+1. number 3
+
+##Insert code chunk by clicking green button
+```{r summary_cars}
+summary(cars)
+```
+
+```{r, eval=FALSE}
+summary(airquality)
+```
+
+##Inline code example
+
+Number of rows in cars dataset is: nrow(cars) whoa!
+
+nrow(cars)
